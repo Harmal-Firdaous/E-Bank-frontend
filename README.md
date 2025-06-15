@@ -32,7 +32,7 @@ intuitive des clients, comptes bancaires et opérations financières.
 - Rôles utilisateur : Admin / User
 - Protection des routes via Angular Guards
 
-=====================================
+
 🖼️ Interfaces Utilisateur
 =====================================
 
@@ -52,9 +52,6 @@ intuitive des clients, comptes bancaires et opérations financières.
 ---------------------
 ![Page de connexion](https://github.com/user-attachments/assets/b8df8410-ee9e-4de7-a9c1-b63b7ba9ac4b)
 
-=====================================
-⚙️ Lancer l'application
-=====================================
 
 🧩 Prérequis techniques :
 ---------------------

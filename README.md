@@ -1,12 +1,11 @@
-=====================================
-💳 Application E-Banking
+Application E-Banking
 =====================================
 
 Une solution bancaire moderne développée avec Angular (Front-End) 
 et Spring Boot (Back-End). Elle permet une gestion sécurisée et 
 intuitive des clients, comptes bancaires et opérations financières.
 
-=====================================
+
 🚀 Fonctionnalités
 =====================================
 

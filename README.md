@@ -1,28 +1,41 @@
-# EbankingFrontend
+Application E-Banking:
+Une solution bancaire moderne développée avec Angular pour le front-end et Spring Boot pour le back-end. Cette application assure une gestion sécurisée et intuitive des clients, comptes bancaires et opérations financières.
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.1.1.
 
-## Development server
+Fonctionnalités:
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+🚀 Fonctionnalités
+Tableau de bord
+Nombre total de clients
+Nombre total de comptes bancaires
 
-## Code scaffolding
+👥Gestion des clients
+Visualisation de la liste des clients
+Recherche par mot-clé
+Ajout, modification et suppression de clients
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+🏦 Gestion des comptes bancaires
+Réalisation d'opérations : Dépôt, Retrait, Virement
+Affichage de l’historique des transactions
 
-## Build
+🔐 Sécurité et Authentification
+Authentification sécurisée avec JWT
+Gestion des sessions utilisateur
+Système de rôles : Admin / User
+Protection des routes côté Angular grâce aux Guards
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+🖼️ Interfaces Utilisateur
+🔎 Recherche de client
+![image](https://github.com/user-attachments/assets/9f485e2b-4c3c-4c65-b19c-3ba71952ab7f)
 
-## Running unit tests
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+👤 Liste des clients
+![image](https://github.com/user-attachments/assets/5e3e10da-be98-4328-8f23-9c4e0025e47a)
 
-## Running end-to-end tests
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+💰 Opérations bancaires
+![image](https://github.com/user-attachments/assets/a579bace-8628-4383-970e-faf41fcea7c9)
 
-## Further help
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
-"# E-Bank-frontend" 
+🔐 Page de connexion
+![image](https://github.com/user-attachments/assets/b8df8410-ee9e-4de7-a9c1-b63b7ba9ac4b)
